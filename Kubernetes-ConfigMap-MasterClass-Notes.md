@@ -1,4 +1,4 @@
-# Kuberneten ConfigMaps & Na ConfigMaps & Namespaces: Enterprise Masterclass Notes
+# # Kubernetes ConfigMaps & Namespaces: Enterprise Masterclass Notes
 
 *Target: Production-Grade DevOps & Cloud Architecture Mastery*
 
