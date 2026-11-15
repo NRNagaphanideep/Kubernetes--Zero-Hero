@@ -1,4 +1,4 @@
-# Kubernetes  Secrets Masterclass: Enterprise-Grade Secret Management & Real-World Scenarios
+# 🚀 Kubernetes  Secrets Masterclass: Enterprise-Grade Secret Management & Real-World Scenarios
 
 Welcome to the ultimate, production-grade guide on managing sensitive credentials, keys, and security tokens in a Kubernetes cluster. In high-paying enterprise DevOps roles, mastering secure secret management is non-negotiable. 
 
