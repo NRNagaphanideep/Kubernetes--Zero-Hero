@@ -1,4 +1,4 @@
- & Docker Core Concepts: Interview Cheat Sheet
+# Kubernetes  & Docker Core Concepts: Interview Cheat Sheet
 
 This guide covers the four fundamental building blocks of modern containerization and Kubernetes: **Docker Image**, **Container**, **Pod**, and **Persistent Volumes (PV)**. Every definition is written in simple, clear English designed to be memorized easily and delivered confidently during DevOps interviews.
 
